@@ -20,4 +20,14 @@
     B. Confusition Matrix
     C. Classification Report
 7. Model Deployment
-8. Prediction on Client Data        
+8. Prediction on Client Data       
+
+## These libraries and modules are used for the following tasks:
+
+pandas is used for data manipulation and analysis.
+numpy is used for scientific computing.
+re is used for regular expression operations.
+sklearn.model_selection is used for splitting the data into training and test sets.
+sklearn.ensemble is used for the Random Forest classifier.
+sklearn.feature_extraction.text is used for the TF-IDF vectorizer.
+sklearn.metrics is used for evaluating the model's performance.
