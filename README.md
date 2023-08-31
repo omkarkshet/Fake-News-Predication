@@ -1,4 +1,4 @@
-# Fake News Predication Using Random Forerst Algorithm
+# Fake News Predication Using Random Forest and Decision tree Algorithm
  Fake news detection is a hot topic in the field of natural language processing. We consume news through several mediums throughout the day in our daily routine, but sometimes it becomes difficult to decide which one is fake and which one is authentic. Our job is to create a model which predicts whether a given news is real or fake.
 ## Project Flow:
 
@@ -31,4 +31,6 @@ sklearn.model_selection is used for splitting the data into training and test se
 sklearn.ensemble is used for the Random Forest classifier.
 sklearn.feature_extraction.text is used for the TF-IDF vectorizer.
 sklearn.metrics is used for evaluating the model's performance.
-Dataset Link-https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
+
+## Dataset Link
+https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
