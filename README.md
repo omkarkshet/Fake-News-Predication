@@ -31,3 +31,4 @@ sklearn.model_selection is used for splitting the data into training and test se
 sklearn.ensemble is used for the Random Forest classifier.
 sklearn.feature_extraction.text is used for the TF-IDF vectorizer.
 sklearn.metrics is used for evaluating the model's performance.
+Dataset Link-https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
